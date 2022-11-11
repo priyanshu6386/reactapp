@@ -11,7 +11,7 @@ class App extends Component {
      <>
       {/* <ChildComponent />
       <GrandChildComponent/> */}
-       <Count/>
+       {/* <Count/> */}
        <BulbOnOff/>
       </>
     // </div>
